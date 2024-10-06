@@ -98,5 +98,51 @@ print(d.isalpha())#A-Z ,a-z
 print(d.isprintable())
 print(d.swapcase())# swaps upper to lower case
 
+##Output
+
+# Gaanpati bappa mourya
+# the type of a is <class 'int'>
+# the type of b is <class 'str'>
+# the type of c is <class 'bool'>
+# the type of d is <class 'float'>
+# the type of e is <class 'complex'>
+# enter first number 34
+# enter secound number 445
+# sum of two numbers is  479
+# sub of two numbers is  -411
+# muptiplicaton of two numbers is  15130
+# division of two numbers is  0.07640449438202247
+#  the sum of both num is: 8
+# 33.14
+# enter 1st num 34
+# enter 2nd num 56
+# 57918773205287127842044254126179599852840968492056164062843692360166371779746690236416
+# C
+# Aditya,bh
+# 11
+# tya,bh
+# Aditya,bhai
+# Aditya,
+# ar
+# 15
+# !!GOVER NMENT!!
+# !!gover nment!!
+# !!Gover nment
+# !!Gover nment!!
+# ['!!Gover', 'nment!!']
+# Cbum cbum w
+# 2
+# True
+# True
+# False
+# Welcome To The Jurrasic Park @@
+# 4
+# 6
+# True
+# False
+# True
+# cBUMISVERYNAUGHTYBOIANDHEISALSOVERYSKINNY07
+
+
 
 
