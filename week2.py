@@ -104,6 +104,24 @@ else:
 
 
 # OUTPUTS
+
+# enter you age 19
+# your age is so 19
+# you can vote
+# False
+# True
+# False
+# False
+# True
+# enter the value : -7
+# The num is negative integer
+# Enter the value: 33
+# The value is between 10 to 100
+# Enter the time16
+# hour
+# Good aftenoon sir
+# Enter the value:4
+# x % 2 ==0 and case is 4
 # A -
 # d -
 # i -
