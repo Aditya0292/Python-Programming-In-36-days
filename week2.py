@@ -40,16 +40,17 @@ elif (num > 0):
 else:
     print("The value is zero")
 
-  # Ex - 2
- import time
 
+  # Ex - 2
+ 
+import time
 t = time.strftime('%H,%M,%S')
 hour = int(time.strftime('%H'))
 hour = int(input("Enter the time"))
 print("hour")
 if (hour > 0 and hour < 12):
      print("Good moring Sir")
-elif (hour >= 12 and hour < 17):
+elif (hour >= 12 and hour < 16):
     print("Good aftenoon sir")
 elif (hour >= 17 and hour < 0):
      print("Good night sir")
@@ -69,6 +70,8 @@ match x:
   case _:
     print(x)
 
+
+
 # for loops
 name = "Aditya"
 for i in name :
@@ -84,6 +87,7 @@ for a in range (21):
   print(a)
 for b in range(2,7):
   print(b)
+
 
 # while loops
 a = int(input("enter the number"))
